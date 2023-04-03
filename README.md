@@ -2,4 +2,4 @@
 
 For the most part, I tried to implement the HTML without peeking. I think I've figured out most of what I needed to in order for the elements to work as I'd expect them to. I did look at the Simon HTML when needed to get more guidance. I hope that I've learned everything I need in order to make HTML for my startup project
 
-P.S. The odd shapes for my Simon buttons is intentional!
+Honestly, I find CSS to be very difficult, as with almost every aspect of UI design I've encountered. CSS is especially difficult because it feels like there are just so many different things that are usable that it's hard to remember what all the options are without needing to look at some sort of reference every time (Bootstrap adds to this list). To add to that, flex and grid display modes just confuse me. Fortunately, the CSS for my startup should be much simpler than the CSS for Simon.
